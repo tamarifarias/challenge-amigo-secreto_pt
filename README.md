@@ -10,7 +10,7 @@ Um projeto simples em **HTML**, **CSS** e **JavaScript** para criar e sortear no
 ## 🚀 Como usar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/amigo-secreto.git
+   git clone https://github.com/tamarifarias/challenge-amigo-secreto_pt.git
    
 2. Abra o arquivo index.html no seu navegador.
 
